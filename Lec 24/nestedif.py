@@ -1,7 +1,7 @@
 #nested if statement
 
-age = 17
-own_car = 'false'
+age = 19
+own_car = 'true'
 
 # outer if statement
 if (age>=18) :
@@ -13,4 +13,4 @@ if (age>=18) :
         print("Work hard and Purchase a new car")
         # outer else statement
 else:
-     print("Under age")
+     print("You are under age")
