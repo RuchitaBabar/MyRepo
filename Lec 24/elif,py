@@ -1,0 +1,16 @@
+# if...elif...else statemnt
+
+handsome ='true'
+good_salary ='false'
+
+if(handsome =='true' and good_salary =='true'):
+    print("Best")
+    
+elif(handsome !='true' and good_salary =='true'):
+    print("Better")
+    
+elif(handsome =='true' and good_salary !='true'):
+    print("Good")
+    
+else:
+    print("OK!")
